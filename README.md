@@ -6,7 +6,7 @@ This Portfolio is a compilation of all the Microsoft Azure AI, Data Science and 
 
 <tr><td>
 <img align="left" width="200" height="200" 
- src="https://github.com/Shreyas VN/Portfolio/blob/main/Projects/Azure/Images/Vision/dall-e-3-sdk.png"/><b><a href="https://github.com/Shreyas VN/Portfolio/blob/main/Projects/Azure/DallE.md">Generate Images with AI</a></b><br/>
+ src="https://github.com/tipros/Portfolio/blob/main/Projects/Azure/Images/Vision/dall-e-3-sdk.png"/><b><a href="https://github.com/tipros/Portfolio/blob/main/Projects/Azure/DallE.md">Generate Images with AI</a></b><br/>
 This project explores how to generate images with Dall-E.
  <br/>
 </td></tr>
