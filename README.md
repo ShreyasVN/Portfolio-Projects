@@ -14,7 +14,7 @@ This project explores how to generate images with Dall-E.
 <tr><td>
 <img align="left" width="200" height="200" 
 src="https://github.com/Shreyas VN/Portfolio/blob/main/Projects/Azure/Images/Speech/translatorlogo.png"/><b><a 
-                                                                                                                        href="https://github.com/Shreyas VN/Portfolio/blob/main/Projects/Azure/SpeechTranslator.md">Speech Translator Service</a></b><br/>
+ href="https://github.com/Shreyas VN/Portfolio/blob/main/Projects/Azure/SpeechTranslator.md">Speech Translator Service</a></b><br/>                                                                                                                  
 This project explores how the Azure Speech Translator Service can be leveraged for translating speech to text.
  <br/>
 </td></tr>
